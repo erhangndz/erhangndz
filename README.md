@@ -4,7 +4,7 @@
  <h1 align="center">Hi There! I'm Erhan Gündüz</h1>
 <h3 align="center">
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Edu+NSW+ACT+Foundation&weight=500&size=30&pause=1000&color=F70404&width=435&lines=FullStack+.Net+Developer+Software+Trainer  )](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Edu+NSW+ACT+Foundation&weight=500&size=30&pause=1000&color=F70404&width=435&lines=FullStack+.Net+Developer  )](https://git.io/typing-svg)
 
 </h3>
 
