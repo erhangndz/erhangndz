@@ -4,7 +4,7 @@
  <h1 align="center">Hi There! I'm Erhan Gündüz</h1>
 <h3 align="center">
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Edu+NSW+ACT+Foundation&weight=500&size=30&pause=1000&color=F70404&width=435&lines=FullStack+.Net+Developer  )](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Edu+NSW+ACT+Foundation&weight=500&size=30&pause=1000&color=F70404&width=435&lines=FullStack+.Net+Developer+Instructor  )](https://git.io/typing-svg)
 
 </h3>
 
@@ -12,13 +12,9 @@
 
 
 
-
 ### 🪐 About Me 
 
-🧬  Since September 2022, I have been working on Full Stack Development of web applications by using Asp.NET, Mssql, Html, C#.
-
-
-🧬 At the beginning of March 2023, I have started a bootcamp with Asp.Net Core & Angular 
+🧬  Since February 2024, I have been working as C# and .Net Development Instructor at Acunmedya Academy and M&Y Software Education Consultancy
 
 
 
@@ -26,7 +22,7 @@
 
 <p align="center">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?&theme=light&i=visualstudio,dotnet,cs,html,css,git,github,postgres,mongo,redis"/>
+    <img src="https://skillicons.dev/icons?&theme=light&i=visualstudio,vscode,dotnet,cs,html,css,bootstrap,github,postgres,mongo,redis,docker,rabbitmq,postman"/>
     
   </a>
 </p>
