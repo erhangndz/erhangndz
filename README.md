@@ -4,7 +4,7 @@
  <h1 align="center">Hi There! I'm Erhan Gündüz</h1>
 <h3 align="center">
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Edu+NSW+ACT+Foundation&weight=500&size=30&pause=1000&color=F70404&width=435&lines=FullStack+.Net+Development+Instructor  )](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Edu+NSW+ACT+Foundation&weight=500&size=30&pause=1000&color=F70404&width=435&lines=Full+Stack+.Net+Development+Instructor  )](https://git.io/typing-svg)
 
 </h3>
 
@@ -14,7 +14,7 @@
 
 ### 🪐 About Me 
 
-🧬  Since February 2024, I have been working as C# and .Net Development Instructor at Acunmedya Academy and M&Y Software Education Consultancy
+🧬  Since February 2024, I have been working as C# and .Net Development Instructor at Acunmedya Academy and M&Y Software Education Academy Consultancy
 
 
 
