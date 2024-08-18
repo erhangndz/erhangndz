@@ -12,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/egunduz)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=for-the-badge&logo=github)](https://github.com/erhangndz)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-orange?style=for-the-badge&logo=portfolio)](your-portfolio-link)
+
 
 ## 🧑‍💻 About Me
 
