@@ -39,7 +39,7 @@ Here are some of the technologies and tools I work with regularly:
 
 <p align="center">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?&theme=dark&i=visualstudio,vscode,dotnet,cs,html,css,bootstrap,jquery,git,github,postgres,mongo,redis,docker,rabbitmq,postman&perline=8"/>
+    <img src="https://skillicons.dev/icons?&theme=dark&i=visualstudio,vscode,dotnet,cs,html,css,bootstrap,jquery,git,angular,postgres,mongo,redis,docker,rabbitmq,postman&perline=8"/>
     
   </a>
 </p>
